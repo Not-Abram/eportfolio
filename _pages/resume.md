@@ -6,15 +6,23 @@ title: "Resume"
  Bachelor of Science in Computer Science, 
  University of South Alabama
  - Expected May 2025
+
  Minors in Russian Language and Mathematics
+
+
  Certificate in Artificial Intelligence
+ 
 # EXPERIENCE
+
  USA Spectrum, University of South Alabama
- 2021- Present
- Elected Club Secretary: Organize meetings and social events, 2023-2024
- Elected Discord Moderator: Facilitate socialization, event coordination,
- and current event discussions, 2021-Present
- Eagle Scout, BSA Troop 365, Slidell, LA
+
+- 2021- Present
+   - Elected Club Secretary: Organize meetings and social events, 2023-2024
+   - Elected Discord Moderator: Facilitate socialization, event coordination,
+   - and current event discussions, 2021-Present
+   - Eagle Scout, BSA Troop 365, Slidell, LA
+ 
+ 
  2010 - 2021
  Eagle Leadership Project: Collaborated with Dept. of Parks & Rec. to
  plan, build, and install a Little Free Library at John Slidell Park
