@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 # EDUCATION
- Bachelor of Science in Computer Science, \\
+ Bachelor of Science in Computer Science, 
  University of South Alabama
  - Expected May 2025
  Minors in Russian Language and Mathematics
