@@ -21,7 +21,7 @@ Here's how to find the total amount of bits in a direct-mapped cache.
         - $131072/128 = 1024$ blocks
         - $\log(1024, 2) = 10 = n$
     - Them, we need to find know the block size in $2^m$ words
-        -$\log(4, 2) = 2 = m$
+        - $\log(4, 2) = 2 = m$
     - The tag size is address size minus $n$ minus $m$ minus $2$, or  $32 - n - m - 2$
         - making $32 - 10 - 2 - 2 = 18$ bits
     - the total bits of SRAM needed for a direct-mapped cache is:
