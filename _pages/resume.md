@@ -3,9 +3,9 @@ permalink: /resume/
 title: "Resume"
 ---
 
-[Resume file](../../assets/Resume-Winter-2023-Censored.pdf)
+[Resume file](../assets/Resume-Winter-2023-Censored.pdf)
 
-If you'd like the full version, email me at [millerabram6@gmail.com](mailto:millerabram6@gmail.com)
+If you'd like the full version, contact me at me at [millerabram6@gmail.com](mailto:millerabram6@gmail.com)
 
 # EDUCATION
  **Bachelor of Science in Computer Science**\
@@ -16,7 +16,7 @@ If you'd like the full version, email me at [millerabram6@gmail.com](mailto:mill
  - Certificate in Artificial Intelligence
  
 # EXPERIENCE
- **USA Spectrum,**\
+ **USA Spectrum**\
  **University of South Alabama**\
  2021-Present
 
@@ -25,7 +25,7 @@ If you'd like the full version, email me at [millerabram6@gmail.com](mailto:mill
 
  **Eagle Scout, BSA**\
  2010 - 2021
- - Eagle Leadership Project: Collaborated with Dept. of Parks & Rec. to plan, build, and install a Little Free Library at a city park 
+ - Eagle Leadership Project: Collaborated with Dept. of Parks & Rec. to plan, build, and install a Little Free Library at a city park \
     Partnered with a library's teen and children's book clubs for ongoing curation and maintenance
  - Elected Troop Instructor: Taught camping skills and mentored younger scouts through ranks
  - Community service projects: Beautifying shared spaces, fundraising for local organizations, and supporting families and animals in need
