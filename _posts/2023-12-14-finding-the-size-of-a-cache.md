@@ -1,13 +1,11 @@
 ---
-title: "Post: Finding the size of a cache"
+title: "Post: Finding the size of a cache."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
-  - CSCI
 tags:
-  - yes
+  - Cacheing
 ---
-
 In my Computer Organization and Architecture class this fall, 
 we learned a lot about the components of computers. 
 One of our focuses was on caching.
