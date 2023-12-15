@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-[Resume file](../assets/Resume-Winter-2023-Censored.pdf)
+[Resume file](../Resume-Winter-2023-Censored.pdf)
 
 If you'd like the full version, contact me at me at [millerabram6@gmail.com](mailto:millerabram6@gmail.com)
 
